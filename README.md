@@ -20,6 +20,7 @@
 
 ## 项目介绍
 这是一个仿《罗小黑战记》官方妖精论坛的同人项目，旨在还原动画中妖精与人类共存的网络社区生态，包含用户系统、帖子发布、权限管理等核心功能。
+<img src="https://raw.githubusercontent.com/crazying-dev/other/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.png" alt="免责声明" style="width:1px;height:auto;border-radius:8px;">
 
 ## 技术栈
 - 后端：Python / Flask / Django
@@ -27,3 +28,24 @@
 - 数据库：JSON
 
 ---
+
+### 工作日志  
+- `2026.02.20` - 妖精论坛项目启动，[项目信息](./doc/项目信息.md)，父项目:[The Door of All Bings](https://github.com/crazying-dev/The-Door-of-All-Beings)
+
+---
+
+### 问题反馈与联系
+如果发现仓库内容有误或有其他问题，请通过以下方式联系：  
+[联系方式](./doc/联系方式.md)
+
+---
+
+开发者的话：  
+动漫中出现的次数并不多，所以会出现一部分的不对应，希望大家可以理解一下  
+算了，你们肯定不会理解我的
+
+---
+
+### 非商业说明
+> 本项目无任何商业性质，「募捐/打赏」仅为粉丝自愿的创作支持，不与项目使用挂钩，且所有收入仅用于项目相关的学习资源购买，不涉及《罗小黑战记》IP的商业利用。  
+[![打赏](https://img.shields.io/badge/-创作支持-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](./ReadExplor/募捐.md)
