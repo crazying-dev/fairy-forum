@@ -46,9 +46,9 @@ def new_user_add_in_database(name, password, email, ip):
 		
 		# 4. 插入用户数据（核心SQL：创建用户行）
 		insert_sql = '''
-	        INSERT INTO Users (id, name, password, email, ip)
-	        VALUES (?, ?, ?, ?, ?)
-	        '''
+			INSERT INTO Users (id, name, password, email, ip)
+			VALUES (?, ?, ?, ?, ?)
+			'''
 		# 用占位符传参，防SQL注入
 		cursor.execute(insert_sql, (UserId, name, password, email, ip))
 		
@@ -84,4 +84,4 @@ def new_user_add_in_database(name, password, email, ip):
 init_db()
 
 if __name__ == '__main__':
-    new_user_add_in_database("Alan", "120283", "3890320020@qq.com", "127.0.0.1")
+	new_user_add_in_database("Alan", "120283", "3890320020@qq.com", "127.0.0.1")
