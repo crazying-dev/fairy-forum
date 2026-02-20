@@ -11,8 +11,8 @@
 
 ---
 
-[![Stars](https://img.shields.io/github/stars/crazying-dev/fairy-forum?style=flat&logo=github&labelColor=444444&color=eac54f)](https://github.com/crazying-dev/妖精论坛)
-[![Issues](https://img.shields.io/github/issues/crazying-dev/fairy-forum?style=flat&label=Issues&labelColor=444444&color=1F883D)](https://github.com/crazying-dev/妖精论坛/issues)
+[![Stars](https://img.shields.io/github/stars/crazying-dev/fairy-forum?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI%2bPHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4%3d&logoSize=auto&label=Stars&labelColor=444444&color=eac54f)](https://github.com/crazying-dev/fairy-forum)
+[![Issues](https://img.shields.io/github/issues/crazying-dev/fairy-forum?style=flat&label=Issues&labelColor=444444&color=1F883D)](https://github.com/crazying-dev/fairy-forum/issues)
 [![动态-BiliBili](https://img.shields.io/badge/动态-BiliBili-00A4DB?style=flat&logo=bilibili&labelColor=444444&logoColor=white&logoSize=auto)](https://space.bilibili.com/3546900892486452)
 [![动态-小红书](https://img.shields.io/badge/动态-小红书-E4405F?style=flat&logo=xiaohongshu&labelColor=444444&logoColor=white&logoSize=auto)](https://www.xiaohongshu.com/user/profile/682d321b000000000a03c93b)
 
