@@ -15,6 +15,7 @@
 [![Issues](https://img.shields.io/github/issues/crazying-dev/fairy-forum?style=flat&label=Issues&labelColor=444444&color=1F883D)](https://github.com/crazying-dev/fairy-forum/issues)
 [![动态-BiliBili](https://img.shields.io/badge/动态-BiliBili-00A4DB?style=flat&logo=bilibili&labelColor=444444&logoColor=white&logoSize=auto)](https://space.bilibili.com/3546900892486452)
 [![动态-小红书](https://img.shields.io/badge/动态-小红书-E4405F?style=flat&logo=xiaohongshu&labelColor=444444&logoColor=white&logoSize=auto)](https://www.xiaohongshu.com/user/profile/682d321b000000000a03c93b)
+[![打赏](https://img.shields.io/badge/-创作支持-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](https://raw.githubusercontent.com/crazying-dev/other/main/%E5%8B%9F%E6%8D%90.md)
 
 ---
 
@@ -29,14 +30,16 @@
 
 ---
 
-### 工作日志  
+### 工作日志,[更新历史](https://github.com/crazying-dev/fairy-forum/releases)  
 - `2026.02.20` - 妖精论坛项目启动，[项目信息](./doc/项目信息.md)，父项目:[The Door of All Bings](https://github.com/crazying-dev/The-Door-of-All-Beings)
+- `2026.02.20` - [添加类似开发](./相关类似创作/HeiFUN)，来自[Hakuin123](https://github.com/Hakuin123)的仓库[HeiFUN](https://github.com/Hakuin123/HeiFUN)
 
 ---
 
 ### 问题反馈与联系
 如果发现仓库内容有误或有其他问题，请通过以下方式联系：  
-[联系方式](./doc/联系方式.md)
+[联系方式](https://raw.githubusercontent.com/crazying-dev/other/main/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F.md)  
+或者来[内测群](https://raw.githubusercontent.com/crazying-dev/other/main/%E5%A6%96%E7%B2%BE%E8%AE%BA%E5%9D%9B%E5%86%85%E6%B5%8B%E4%B8%80%E7%BE%A4.jpg)唠唠嗑（可互水）
 
 ---
 
@@ -48,4 +51,4 @@
 
 ### 非商业说明
 > 本项目无任何商业性质，「募捐/打赏」仅为粉丝自愿的创作支持，不与项目使用挂钩，且所有收入仅用于项目相关的学习资源购买，不涉及《罗小黑战记》IP的商业利用。  
-[![打赏](https://img.shields.io/badge/-创作支持-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](./ReadExplor/募捐.md)
+[![打赏](https://img.shields.io/badge/-创作支持-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](https://raw.githubusercontent.com/crazying-dev/other/main/%E5%8B%9F%E6%8D%90.md)
