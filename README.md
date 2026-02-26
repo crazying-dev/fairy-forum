@@ -13,7 +13,7 @@
 
 [![Stars](https://img.shields.io/github/stars/crazying-dev/fairy-forum?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI%2bPHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4%3d&logoSize=auto&label=Stars&labelColor=444444&color=eac54f)](https://github.com/crazying-dev/fairy-forum)
 [![Issues](https://img.shields.io/github/issues/crazying-dev/fairy-forum?style=flat&label=Issues&labelColor=444444&color=1F883D)](https://github.com/crazying-dev/fairy-forum/issues)
-[![动态-BiliBili](https://img.shields.io/badge/动态-BiliBili-00A4DB?style=flat&logo=bilibili&labelColor=444444&logoColor=white&logoSize=auto)](https://space.bilibili.com/3546900892486452)
+[![银月喵语](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D3546900892486452&query=%24.data.follower&suffix=%E5%90%8D%E7%B2%89%E4%B8%9D&style=social&logo=bilibili&label=bilibili)](https://space.bilibili.com/3546900892486452)
 [![动态-小红书](https://img.shields.io/badge/动态-小红书-E4405F?style=flat&logo=xiaohongshu&labelColor=444444&logoColor=white&logoSize=auto)](https://www.xiaohongshu.com/user/profile/682d321b000000000a03c93b)
 [![打赏](https://img.shields.io/badge/-创作支持-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](https://raw.githubusercontent.com/crazying-dev/other/main/%E5%8B%9F%E6%8D%90.md)
 
@@ -31,10 +31,11 @@
 ---
 
 ### 工作日志,[更新历史](https://github.com/crazying-dev/fairy-forum/releases)  
-- `2026.02.20` - 妖精论坛项目启动，[项目信息](./doc/项目信息.md)，父项目:[The Door of All Bings](https://github.com/crazying-dev/The-Door-of-All-Beings)
-- `2026.02.20` - [添加类似开发](./相关类似创作/HeiFUN)，来自[Hakuin123](https://github.com/Hakuin123)的仓库[HeiFUN](https://github.com/Hakuin123/HeiFUN)
-- `2026.02.2*` - 忘了更新哩
+- `2026.02.20` - 妖精论坛项目启动，[项目信息](./doc/项目信息.md)，父项目:[The Door of All Bings](https://github.com/crazying-dev/The-Door-of-All-Beings)  
+- `2026.02.20` - [添加类似开发](./相关类似创作/HeiFUN)，来自[Hakuin123](https://github.com/Hakuin123)的仓库[HeiFUN](https://github.com/Hakuin123/HeiFUN)  
+- `2026.02.2*` - 忘了更新哩  
 - `2026.02.26` - 页面初期，做的不好，[要看看这里](./前端/main.html)
+
 ---
 
 ### 问题反馈与联系
@@ -45,8 +46,13 @@
 ---
 
 开发者的话：  
-动漫中出现的次数并不多，所以会出现一部分的不对应，希望大家可以理解一下  
-算了，你们肯定不会理解我的
+动漫中出现的次数并不多  
+所以会出现一部分的不对应  
+希望大家可以理解一下  
+
+算了，你们肯定不会理解我的  
+所以我给你们准备了惊喜  
+[惊喜点这里]()
 
 ---
 
