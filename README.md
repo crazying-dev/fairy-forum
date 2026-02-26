@@ -33,7 +33,8 @@
 ### 工作日志,[更新历史](https://github.com/crazying-dev/fairy-forum/releases)  
 - `2026.02.20` - 妖精论坛项目启动，[项目信息](./doc/项目信息.md)，父项目:[The Door of All Bings](https://github.com/crazying-dev/The-Door-of-All-Beings)
 - `2026.02.20` - [添加类似开发](./相关类似创作/HeiFUN)，来自[Hakuin123](https://github.com/Hakuin123)的仓库[HeiFUN](https://github.com/Hakuin123/HeiFUN)
-
+- `2026.02.2*` - 忘了更新哩
+- `2026.02.26` - 页面初期，做的不好，[要看看这里](./前端/main.html)
 ---
 
 ### 问题反馈与联系
