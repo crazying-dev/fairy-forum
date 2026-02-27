@@ -19,6 +19,10 @@
 
 ---
 
+![https：//count.getloli.com/@crazying-dev](https://count.getloli.com/@crazying-dev)
+
+---
+
 ## 项目介绍
 这是一个仿《罗小黑战记》官方妖精论坛的同人项目，~~旨在还原动画中妖精与人类共存的网络社区生态~~，旨在还原动画中妖精的网络社区生态，包含用户系统、帖子发布、权限管理等核心功能。
 <img src="https://raw.githubusercontent.com/crazying-dev/other/main/%E5%85other/main%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.png" alt="" style="width:1px;height:auto;border-radius:8px;">
