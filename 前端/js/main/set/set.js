@@ -1,9 +1,11 @@
 const setIcon = document.getElementById('set');
 const setIconB = document.getElementById('set-background')
+const setDropList = document.getElementById('set-droplist')
 
 // 动画过渡
 setIcon.style.transition = 'all 1.5s ease';
 setIconB.style.transition = 'background-color 1.5s ease';
+setDropList.style.transition = 'height 1.5s ease';
 
 // 动画
 function SetTurnTo(){
@@ -13,6 +15,7 @@ function SetTurnTo(){
     setIcon.style.height = '40px'
     setIcon.style.top = '0px'
     setIcon.style.right = '20px'
+    setDropList.style.height = setDropList.scrollHeight + 'px'
 }
 
 function  SetTurnBreak(){
@@ -22,12 +25,13 @@ function  SetTurnBreak(){
     setIcon.style.height = '30px'
     setIcon.style.top = '5px'
     setIcon.style.right = '25px'
+    setDropList.style.height = '0'
 }
 
 
 // 2. 监听鼠标悬浮事件（mouseover：鼠标进入）
-setIcon.addEventListener('mouseover', SetTurnTo);
+setIconB.addEventListener('mouseover', SetTurnTo);
 
 // 3. 监听鼠标离开事件（mouseout：鼠标离开），恢复初始状态
-setIcon.addEventListener('mouseout', SetTurnBreak);
+setIconB.addEventListener('mouseout', SetTurnBreak);
 

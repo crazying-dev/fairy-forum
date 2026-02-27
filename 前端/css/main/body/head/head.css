@@ -18,20 +18,5 @@
     font-size: 30px;
     color: rgb(220, 220, 220);
 }
-#set-background{
-    position: fixed;
-    top: 0;
-    right: 20px;
-    width: 40px;
-    height: 40px;
-    border-radius: 20%;
-    background: rgba(0,0,0,0);
-}
-#set{
-    position: fixed;
-    top: 5px;
-    right: 25px;
-    width: 30px;
-    height: 30px;
-}
+
 

@@ -20,8 +20,8 @@
 ---
 
 ## 项目介绍
-这是一个仿《罗小黑战记》官方妖精论坛的同人项目，旨在还原动画中妖精与人类共存的网络社区生态，包含用户系统、帖子发布、权限管理等核心功能。
-<img src="https://raw.githubusercontent.com/crazying-dev/other/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.png" alt="免责声明" style="width:1px;height:auto;border-radius:8px;">
+这是一个仿《罗小黑战记》官方妖精论坛的同人项目，~~旨在还原动画中妖精与人类共存的网络社区生态~~，旨在还原动画中妖精的网络社区生态，包含用户系统、帖子发布、权限管理等核心功能。
+<img src="https://raw.githubusercontent.com/crazying-dev/other/main/%E5%85other/main%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.png" alt="" style="width:1px;height:auto;border-radius:8px;">
 
 ## 技术栈
 - 后端：Python / Flask / Django
@@ -35,6 +35,7 @@
 - `2026.02.20` - [添加类似开发](./相关类似创作/HeiFUN)，来自[Hakuin123](https://github.com/Hakuin123)的仓库[HeiFUN](https://github.com/Hakuin123/HeiFUN)  
 - `2026.02.2*` - 忘了更新哩  
 - `2026.02.26` - 页面初期，做的不好，[要看看这里](./前端/main.html)
+- `2026.02.27` - 耶，会做动画了[今天的成果](./前端/main.html)
 
 ---
 
