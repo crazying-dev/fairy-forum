@@ -1,0 +1,2 @@
+cd C:\Users\Alan_\Documents\GitHub\fairy-forum\前端
+C:\Users\Alan_\AppData\Local\Programs\Python\Python312\python.exe -m http.server 8000

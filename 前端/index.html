@@ -16,20 +16,26 @@
     <link rel="stylesheet" type="text/css" href="css/main/body/head/head.css">
     <link rel="stylesheet" type="text/css" href="css/main/body/head/set/droplist.css">
     <link rel="stylesheet" type="text/css" href="css/main/body/head/set/set.css">
+    <link rel="stylesheet" type="text/css" href="css/main/body/head/user/img.css">
 
 
-    <link rel="icon" type="image/svg+xml" href="assets/image/icon.svg">
+    <link rel="icon" type="image/svg+xml" href="https://raw.githubusercontent.com/crazying-dev/other/main/use/icon.svg">
 </head>
 <body>
     <div id="body">
         <div id="head">
-            <img id="logo" src="assets/image/logo/light.svg" width="30px" height="30px" alt="logo">
+            <img id="logo" src="https://raw.githubusercontent.com/crazying-dev/other/main/use/light/logo.svg" width="30px" height="30px" alt="logo">
             <div id="title">
                 妖精论坛
             </div>
+
+            <div id="user">
+                <img src="https://raw.githubusercontent.com/crazying-dev/other/main/use/break/user-img.png" alt="user-img" id="user-img" width="30" height="30">
+            </div>
+
             <div class="set" id="set-background">
                 <a href="#">
-                    <img id="set" class="set" src="assets/image/set.svg" width="30px" height="30px" alt="set">
+                    <img id="set" class="set" src="https://raw.githubusercontent.com/crazying-dev/other/main/use/break/set.svg" width="30px" height="30px" alt="set">
                 </a>
                 <ul id="set-droplist">
                     <li class="first">
@@ -42,21 +48,24 @@
                             下拉条
                         </a>
                     </li>
-                    <li>
+                    <li id="sign">
                         <a id="sign out" tabindex="0" aria-labelledby="_r_1q_--label" data-size="medium" href="#">
                             <span>
-
-                            </span>
-                            <span>
-                                <svg aria-hidden="true" focusable="false" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align: text-bottom;">
-                                    <path d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 0 1 0 1.5h-2.5a.25.25 0 0 0-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 0 1 0 1.5h-2.5A1.75 1.75 0 0 1 2 13.25Zm10.44 4.5-1.97-1.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l3.25 3.25a.75.75 0 0 1 0 1.06l-3.25 3.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.97-1.97H6.75a.75.75 0 0 1 0-1.5Z">
-
-                                    </path>
-                                </svg>
+                                <img src="https://raw.githubusercontent.com/crazying-dev/other/main/use/break/sign-out.svg" alt="signout">
                             </span>
                             <span data-component="ActionList.Item--DividerContainer">
                                 <span>
                                     Sign out
+                                </span>
+                            </span>
+                        </a>
+                        <a id="sign in" tabindex="0" aria-labelledby="_r_1q_--label" data-size="medium" href="/sign-in.html">
+                            <span>
+                                <img src="https://raw.githubusercontent.com/crazying-dev/other/main/use/break/sign-in.svg" alt="sign in">
+                            </span>
+                            <span data-component="ActionList.Item--DividerContainer">
+                                <span>
+                                    Sign in
                                 </span>
                             </span>
                         </a>
@@ -88,6 +97,7 @@
         </div>
     </div>
 
-    <script src="js/main/set/set.js"></script>
+    <script src="js/main/head/set.js"></script>
+    <script src="js/main/head/user.js"></script>
 </body>
 </html>

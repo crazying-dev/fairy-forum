@@ -1,6 +1,18 @@
 const setIcon = document.getElementById('set');
 const setIconB = document.getElementById('set-background')
 const setDropList = document.getElementById('set-droplist')
+const setDropListSignOut = document.getElementById('sign out')
+const setDropListSignIn = document.getElementById('sign in')
+
+const getCookieSimple = (name) => decodeURIComponent(document.cookie.split(`${encodeURIComponent(name)}=`)[1]?.split(';')[0] || '');
+
+let id = getCookieSimple('id');
+
+if (!id || id.toString().trim() === "") {
+    setDropListSignOut.style.display = 'none'
+} else {
+    setDropListSignIn.style.display = 'none'
+}
 
 // 动画过渡
 setIcon.style.transition = 'all 1.5s ease';
