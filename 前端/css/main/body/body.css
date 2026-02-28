@@ -1,5 +1,6 @@
 body{
-    background: rgb(70, 70, 70);
+    background: rgb(185, 185, 185);
+    font-family: "楷体", KaiTi, "华文行楷", STXingkai, serif;
 }
 #body{
     border-radius: 50%

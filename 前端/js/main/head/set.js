@@ -23,20 +23,20 @@ setDropList.style.transition = 'height 1.5s ease';
 function SetTurnTo(){
     setIcon.style.transform = 'rotate(180deg)';
     setIconB.style.backgroundColor = 'rgba(100,100,100,0.7)'
-    setIcon.style.width = '40px'
-    setIcon.style.height = '40px'
-    setIcon.style.top = '0px'
-    setIcon.style.right = '20px'
+    setIcon.style.width = '60px'
+    setIcon.style.height = '60px'
+    setIcon.style.top = '15px'
+    setIcon.style.right = '30px'
     setDropList.style.height = setDropList.scrollHeight + 'px'
 }
 
 function  SetTurnBreak(){
     setIcon.style.transform = 'rotate(0deg)';
     setIconB.style.backgroundColor = 'rgba(0,0,0,0)'
-    setIcon.style.width = '30px'
-    setIcon.style.height = '30px'
-    setIcon.style.top = '5px'
-    setIcon.style.right = '25px'
+    setIcon.style.width = '50px'
+    setIcon.style.height = '50px'
+    setIcon.style.top = '20px'
+    setIcon.style.right = '35px'
     setDropList.style.height = '0'
 }
 
