@@ -1,6 +1,8 @@
 body{
     background: rgb(185, 185, 185);
     font-family: "楷体", KaiTi, "华文行楷", STXingkai, serif;
+    touch-action: manipulation;
+    user-select: none;
 }
 #body{
     border-radius: 50%

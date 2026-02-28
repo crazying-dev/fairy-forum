@@ -1,8 +1,10 @@
 const head_user_Img = document.getElementById('user-img')
 const head_user_Imgbackground = document.getElementById('user-background')
+const head_user_droplist = document.getElementById('user-droplist')
 
 head_user_Imgbackground.style.transition = 'all 0.5s ease'
 head_user_Img.style.transition = 'all 0.5s ease'
+head_user_droplist.style.transition = 'all 0.5s ease'
 
 const head_user_getCookieSimple = (name) => decodeURIComponent(document.cookie.split(`${encodeURIComponent(name)}=`)[1]?.split(';')[0] || '');
 
@@ -25,6 +27,7 @@ function INTO(){
     head_user_Img.style.right = '195px'
     head_user_Img.style.height = '60px'
     head_user_Img.style.width = '60px'
+    head_user_droplist.style.height = setDropList.scrollHeight + 'px'
 }
 
 function OUT() {
@@ -33,6 +36,7 @@ function OUT() {
     head_user_Img.style.right = '200px'
     head_user_Img.style.height = '50px'
     head_user_Img.style.width = '50px'
+    head_user_droplist.style.height = '0px'
 }
 
 

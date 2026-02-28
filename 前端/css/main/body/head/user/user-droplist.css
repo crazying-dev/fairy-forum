@@ -1,0 +1,29 @@
+#user-droplist{
+    position: fixed;
+    background: #cccccc;
+    box-shadow: 0 1px 2px #cccccc;
+    border-radius: 10px;
+    overflow:hidden;
+    height: 0;
+    top: 80px;
+    right: 180px;
+    color: rgba(10, 10, 10, 0.1);
+    z-index: 9999;
+}
+#user-droplist li{
+    display: flex;
+    align-items: center; /* 垂直居中（可选，提升体验） */
+    justify-content: space-around; /* 元素均匀分布（可选） */
+    gap: 10px;
+    border-top: 1px solid #999999;
+    padding: 10px;
+}
+#user-droplist li:hover{
+    background: #999999;
+}
+#user-droplist .first{
+    border-top: none;
+}
+#user-droplist a{
+    color: rgb(10, 10, 10);
+}

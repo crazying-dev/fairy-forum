@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <!-- 修正meta标签：一个meta标签只定义一个属性，避免混写 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="罗小黑战记中的妖精论坛同人开发">
     <meta name="keywords" content="罗小黑,罗小黑战记,妖精论坛,妖精,论坛,lxh,lxhzj">
@@ -18,8 +18,10 @@
     <link rel="stylesheet" type="text/css" href="css/main/body/head/set/set.css">
     <link rel="stylesheet" type="text/css" href="css/main/body/head/user/img.css">
     <link rel="stylesheet" type="text/css" href="css/main/body/head/find/input.css">
+    <link rel="stylesheet" type="text/css" href="css/main/body/head/user/user-droplist.css">
 
     <link rel="icon" type="image/svg+xml" href="assets/image/logo.png">
+    <script src="js/main/all.js"></script>
 </head>
 <body>
     <div id="body">
@@ -44,6 +46,18 @@
                 <a id="user" href="#">
                     <img src="https://raw.githubusercontent.com/crazying-dev/other/main/use/break/user-img.png" alt="user-img" id="user-img">
                 </a>
+                <ul id="user-droplist">
+                    <li class="first">
+                        <a href="/sign-in">
+                            未登录
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sign-in">
+                            请登录
+                        </a>
+                    </li>
+                </ul>
             </div>
 
             <div class="set" id="set-background">
@@ -103,6 +117,7 @@
             <div class="None"></div>
             <div class="None"></div>
             <div class="None"></div>
+            <!--<img src="https://count.getloli.com/@crazying-dev" height="100" alt="count" id="count">-->
             <!-- 占位符找这里结束哦 -->
 
             <footer>

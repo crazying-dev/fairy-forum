@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN"> <!-- 改为中文编码，适配中文显示 -->
+<head>
+    <meta charset="UTF-8">
+    <!-- 新增：禁止缩放 + 移动端适配 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Sign in</title>
+    <link rel="icon" type="image/svg+xml" href="../assets/image/logo.png">
+    <link rel="stylesheet" type="text/css" href="../css/sign-in/sign-in-logo.css">
+</head>
+<body>
+<!-- 新增：统一容器，包裹logo和表单，方便整体居中+竖直排列 -->
+<div class="login-container">
+    <!-- Logo -->
+    <img src="../assets/image/logo.png" alt="logo" id="sign-in-logo">
+
+    <!-- 登录表单 -->
+    <div class="form-wrapper">
+        <div class="form-item">
+            <label for="name" class="form-label">名称:</label>
+            <div class="error" id="error-name">名称只能包含字母，数字和下划线</div>
+            <div class="error" id="error-name-none">名称不能为空</div>
+            <input type="text" id="name" class="form-input" placeholder="请输入名称">
+        </div>
+        <div class="form-item">
+            <label for="password" class="form-label">密码:</label>
+            <div class="error" id="error-password">密码只能包含字母和数字</div>
+            <div class="error" id="error-password-none">密码不能为空</div>
+            <div class="error" id="error-password-length">密码长度必须在8~12位之间</div>
+            <input type="password" id="password" class="form-input" placeholder="请输入密码">
+        </div>
+        <a href="/sign-on">没有账号？要GET账号？</a>
+        <!-- 新增：登录按钮，完善功能 -->
+        <button type="button" class="login-btn" id="loginBtn">登录</button>
+    </div>
+</div>
+<script src="../js/sign-in/js.js"></script>
+</body>
+</html>
